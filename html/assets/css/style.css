@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header styling */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -20,7 +21,7 @@ h1 {
     font-size: 48px;
     color: #d9dcd6;
 }
-
+/* Navegation Bar */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -43,7 +44,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* Main photo styling */
 #main-photo {
     height: 800px;
     width: 100%;
@@ -51,7 +52,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* Section styling, 3 rectangles below the main image */
 section {
     width: 75%;
     display: inline-block;
@@ -83,7 +84,7 @@ h2 {
     margin-left: 25px;
     max-height: 200px;
 }
-
+/* Aside styling, rectangle on the right side */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -110,14 +111,15 @@ h3 {
     margin: 10px auto;
     max-width: 150px;
 }
-
-.footer {
+/* Footer styling, at the bottom of the page */
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+h4 {
     font-size: 20px;
+    padding-bottom: 5px;
 }
