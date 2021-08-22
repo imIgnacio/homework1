@@ -10,3 +10,5 @@ As well as that, I left some comments to make it easier to read and understand.
 
 Al classes and id's have descriptive names to understand what they do easier.
 
+link to the webpage https://imignacio.github.io/homework1/
+
