@@ -1,4 +1,6 @@
-### Homework 1 by Ignacio Esteban Diaz Ruiz
+Homework 1 by Ignacio Esteban Diaz Ruiz
+
+This is a static HTML website where I fixed semantic tags and some CSS code.
 
 Indise folder Homework1-Code there are all assets and HTML code used to complete this task.
 
