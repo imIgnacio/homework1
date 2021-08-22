@@ -1,15 +1,17 @@
+/* Univeral modifier */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Background color for the whole page */
 body {
     background-color: #d9dcd6;
 }
 
 /* Header styling */
-.header {
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -41,9 +43,6 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
 /* Main photo styling */
 #main-photo {
     height: 800px;
@@ -71,6 +70,10 @@ section {
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+/* Modifies all paragraphs on the page */
+p {
+    font-size: 16px;
 }
 
 #float-left {
